@@ -12,7 +12,7 @@ Web site and documentation
 
 Blog and additional information about this project is available at the web site:
 
-  https://zpettry.com/ai+cybersecurity/ai-autoencoder-anomaly-detection/
+  https://www.zpettry.com/ai+cybersecurity/ai-autoencoder-anomaly-detection/
 
 License
 -------
